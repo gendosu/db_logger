@@ -4,6 +4,7 @@ class CreateLogs < ActiveRecord::Migration
       t.string :controller
       t.string :action
       t.string :method
+      t.string :referer
 
       t.timestamps
     end
