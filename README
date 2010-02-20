@@ -2,7 +2,11 @@ DbLogger
 ========
 
 Introduction goes here.
+db_logger is logging to database expression plugin
+for Ruby on Rails
 
+Install
+=======
 
 Example
 =======
